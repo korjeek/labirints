@@ -1,0 +1,10 @@
+Error reading maze file: idk. Reason: idk
+Usage: solve [-u] -a=<solver> -e=<endPoint> -f=<mazeFile> [-o=<outputFile>]
+             -s=<startPoint>
+Solve a maze with specified algorithm and points.
+  -a, --algorithm=<solver>   Algorithm: astar, dijkstra, bfs
+  -e, --end=<endPoint>       End point (format: x,y)
+  -f, --file=<mazeFile>      Maze file
+  -o, --output=<outputFile>  Output file
+  -s, --start=<startPoint>   Start point (format: x,y)
+  -u, --unicode              Use Unicode characters for the maze display

@@ -1,0 +1,10 @@
+Maze width and height must be bigger than zero
+Usage: generate [-u] -a=<algorithm> -h=<height> [-o=<outputFile>] -w=<width>
+Generate a maze with specified algorithm and dimensions.
+  -a, --algorithm=<algorithm>
+                          Algorithm: dfs, prim, kruskal
+  -h, --height=<height>   Maze height
+  -o, --output=<outputFile>
+                          Output file
+  -u, --unicode           Use Unicode characters for the maze display
+  -w, --width=<width>     Maze width

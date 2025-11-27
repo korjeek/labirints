@@ -1,0 +1,11 @@
+Invalid value for option '--algorithm': Unknown algorithm: unknown
+Usage: maze-app generate [-u] -a=<algorithm> -h=<height> [-o=<outputFile>]
+                         -w=<width>
+Generate a maze with specified algorithm and dimensions.
+  -a, --algorithm=<algorithm>
+                          Algorithm: dfs, prim, kruskal
+  -h, --height=<height>   Maze height
+  -o, --output=<outputFile>
+                          Output file
+  -u, --unicode           Use Unicode characters for the maze display
+  -w, --width=<width>     Maze width

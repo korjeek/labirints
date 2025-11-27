@@ -1,0 +1,5 @@
+tests/tmp/5_check_maze_generation_unicode.txt
+┌─┐
+│ │
+└─┘
+===EOF===

@@ -1,0 +1,1 @@
+docker run -u root -v ./tests:/tests:rw -i app generate -a dfs -h 1 -w 1 -o /tests/tmp/5_check_maze_generation_unicode.txt -u

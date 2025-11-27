@@ -1,0 +1,1 @@
+docker run -u root -v ./tests:/tests:rw -i app generate --algorithm=dfs -h 5 -w -5
