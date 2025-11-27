@@ -1,0 +1,8 @@
+academy\maze\generator\DFSGeneratorTest.class
+academy\maze\generator\PrimGeneratorTest.class
+academy\maze\solver\BFSSolverTest.class
+academy\maze\solver\DijkstraSolverTest.class
+academy\maze\solver\MazeSolverTestBase.class
+academy\maze\generator\MazeGeneratorTestBase.class
+academy\maze\generator\KruskalGeneratorTest.class
+academy\maze\solver\AStarSolverTest.class
